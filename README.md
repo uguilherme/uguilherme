@@ -1,8 +1,8 @@
-- 👋 I'm @uguilherme
-- 👀 m interested in learning new things every day.
-- 🌱 m currently learning Java
-- 💞️ i'm looking to collaborate with someone who doesn't doubt my ability to create
-- 📫 how to get to me guilherme.puhl@outlook.com
+- 👋 Oi, sou @uguilherme
+- 👀 estou interessado em aprender coisas novas cada dia.
+- 🌱 estou aprendendo atualmente Java
+- 💞️ que estou procurando colaborar com pessoa que não duvida da minha capacidade de criar
+- 📫 Como chegar até mim guilherme.puhl@outlook.com
 
 <!---
 uguilherme/uguilherme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
