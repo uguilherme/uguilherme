@@ -1,4 +1,4 @@
-- 👋 Oi, sou @uguilherme
+- 👋 Oi, sou Guilherme Henrique
 - 👀 estou interessado em aprender coisas novas cada dia.
 - 🌱 estou aprendendo atualmente Java
 - 💞️ que estou procurando colaborar com pessoa que não duvida da minha capacidade de criar
