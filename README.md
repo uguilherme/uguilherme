@@ -1,4 +1,7 @@
-👋 Oi, sou Guilherme Henrique
+                                     Olá, eu sou Guilherme, tenho 17 anos e bem-vindo ao meu perfil
+ 
+
+
 
 👀 Estou interessado em aprender coisas novas cada dia.
  
