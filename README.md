@@ -1,15 +1,13 @@
-                                     Olá, eu sou Guilherme, tenho 17 anos e bem-vindo ao meu perfil
+                                     Hello, I'm Guilherme, I'm 17 years old and welcome to my profile
+                                     
  
-
-
-
-👀 Estou interessado em aprender coisas novas cada dia.
+👀'm interested in learning new things every day.
  
-🌱 No momento, estou aprendendo Java
+🌱 I'm currently learning Java
 
-⚡ Meu jogo favorito é Minecraft.
+⚡ My favorite game is Minecraft.
 
-📫 Como chegar até mim guilherme.puhl@outlook.com
+📫 How to get to me guilherme.puhl@outlook.com
 
 <!---
 uguilherme/uguilherme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
