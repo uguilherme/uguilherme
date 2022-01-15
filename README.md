@@ -5,7 +5,7 @@
  
 🌱 I'm currently learning Java
 
-⚡ My favorite game is Minecraft.
+⚡ My favorite game is CS:GO and Minecraft.
 
 📫 How to get to me guilherme.puhl@outlook.com
 
