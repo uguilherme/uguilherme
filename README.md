@@ -3,7 +3,7 @@
  
 👀 I'm interested in learning new things every day.
  
-🌱 I'm currently learning Java
+🌱 I'm currently learning C
 
 📫 How to get to me guilherme.puhl@outlook.com
 
