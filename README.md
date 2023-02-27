@@ -1,11 +1,11 @@
-                                     Hello, I'm Guilherme, I'm 18 years old and welcome to my profile
+                                      
                                      
  
-👀 I'm interested in learning new things every day.
- 
-🌱 I'm currently learning C
+👀 Estou interessado em aprender coisas novas todos os dias.
 
-📫 How to get to me guilherme.puhl@outlook.com
+🌱 Atualmente estou aprendendo C++, JavaScript, CSS e HTML.
+
+📫 Como chegar até mim guilherme.puhl@outlook.com
 
 <!---
 uguilherme/uguilherme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
